@@ -7,5 +7,6 @@
     Structure</a></li>
     <li><a href="Lab 3/index.html" target="_blank">Lab 3 - Basic HTML 
     and HTML Somantics</a></li>
+    <li><a href="Lab 4/index.html" target="_blank">Lab 4 - Intro to CSS</a></li>
 </ui>
 
