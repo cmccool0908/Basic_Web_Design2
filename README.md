@@ -9,5 +9,6 @@
     and HTML Somantics</a></li>
     <li><a href="Lab 4/index.html" target="_blank">Lab 4 - Intro to CSS</a></li>
     <li><a href="Mid-Term Project/index.html" target="_blank"> Mid-Term Project</a></li>
+    <li><a href="Lab 5/index.html" target="_blank"> Lab 5 </a></li>
 </ui>
 
