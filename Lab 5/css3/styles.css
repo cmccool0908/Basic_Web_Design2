@@ -1,0 +1,67 @@
+/* Global Styles */
+
+body {
+    background-color: silver;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: snow;
+}
+
+a:hover {
+    color: steelblue;
+    text-decoration: none;
+}
+
+/* Mobile Styles */
+
+header {
+    background-color: slateblue;
+    padding: 40px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: slateblue;
+    text-align: center;
+}
+
+nav ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+nav li {
+    display: block;
+}
+
+nav li a {
+    display: block;
+    padding: 10px 0;
+    border-top: 1px solid silver;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul a:hover {
+    background-color: silver;
+}
+
+main {
+    background-color: snow;
+    padding: 20px;
+    margin: 10px;
+}
+
+footer {
+    background-color: snow;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
