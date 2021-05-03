@@ -145,7 +145,7 @@ li a.active {
  .slider {
 
   text-align: center;
-  content: center;
+  
   
   
 
@@ -182,13 +182,11 @@ li a.active {
     text-align: center;
     padding: 10px 12px;
     text-decoration: none;
+    font-size: 30px;
+    border-radius: none;
   }
 
-  nav li a {
-    font-size: 30px;
-    
-    border-radius: none;
-}
+ 
 
 .desktop {
   display: block;
